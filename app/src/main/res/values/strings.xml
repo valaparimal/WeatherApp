@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="temperature">Temperature: get here</string>
+    <string name="weather">Weather: get here</string>
+    <string name="wind">Wind: get here</string>
+</resources>
